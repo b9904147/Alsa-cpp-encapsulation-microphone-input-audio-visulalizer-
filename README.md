@@ -1,1 +1,1 @@
-Combined two open project into this project.
+Combined two open projects into this project.
